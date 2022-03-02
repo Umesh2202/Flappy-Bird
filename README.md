@@ -11,7 +11,7 @@ Flappy Bird is a mobile game which is brought to pc now !! 🥳
 
 https://user-images.githubusercontent.com/79990168/156173835-72810d83-fffb-429a-9071-8d8a977d5614.mp4
 
-## Sprites Used 🖼️: 
+## Sprites Used 🖼️
 
 
 
@@ -23,7 +23,25 @@ https://user-images.githubusercontent.com/79990168/156173835-72810d83-fffb-429a-
 
 
 
-### All these are made available
+### All these are made available in gallery folder
 
-## How to play 👨‍💻 
-Just clone the repo and run "main.py" in any python supporting IDE
+## How to play 👨‍💻
+1.Clone the repo
+```
+https://github.com/Umesh2202/Flappy-Bird.git
+```
+2.Install pygame
+```
+pip install pygame
+```
+3.Run the game
+```
+python main.py
+```
+## Mentor
+Asst. Prof. Vaibhav Khatavkar
+
+## Author
+<ul>
+  <li><a href="https://github.com/Umesh2202">@Umesh2202</a></li>
+</ul>
